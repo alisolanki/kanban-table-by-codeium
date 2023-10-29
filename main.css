@@ -1,0 +1,19 @@
+#board {
+    display: flex;
+  }
+  
+  .column {
+    width: 30%;
+    padding: 10px;
+    border: 1px solid #ccc;
+    margin: 10px;
+  }
+  
+  .card {
+    background-color: #f9f9f9;
+    padding: 10px;
+    margin: 10px;
+    border: 1px solid #ccc;
+    cursor: move;
+  }
+  
